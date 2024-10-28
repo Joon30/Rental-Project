@@ -1,0 +1,5 @@
+303|Adam Tan                |21-03-2019     |1200 sqft       |RM2100         |0
+272|Caitlyn Lim             |30-06-2018     |1200 sqft       |RM1900         |2
+070|Kaydern Yong            |09-12-2018     |1200 sqft       |RM2100         |1
+194|Alex Kong              |10-03-2019     |1200 sqft       |RM2100         |2
+153| Brandon Low           |27-07-2019     |1200 sqft       |RM2100         |1
